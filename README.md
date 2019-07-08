@@ -1,1 +1,1 @@
-List of basic Python programs.
+List of basic codes for beginners to practice Python.
